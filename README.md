@@ -1,7 +1,7 @@
 # Algorithmic Trading
 Researching about Algorithmic Trading
 
-## Books
+## I. Books
 - Ref: [Recommended Books by neurotrader youtuber](https://www.youtube.com/watch?v=ftFptCxm5ZU&t=14s)
 - Categories: Introduction (beginner), Risk Management, Indicators, Strategies, Trading System Development, Essential Skills for Trading, Niche, Quant Trading.
   
@@ -48,8 +48,11 @@ Researching about Algorithmic Trading
 - [ ] Advances in Active Portfolio Management
 - [ ] Technical Analysis is Mostly Bullshit
 
-## Courses
+## II. Courses
 - [QuantConnect Tutorial 2023](https://www.youtube.com/watch?v=Ets0xGCjQ14)
 - [LinkedIn Learning - Algorithmic Trading and Stocks Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-stocks-essential-training-16977513)
 - [LinkedIn Learning - Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training)
 - [LinkedIn Learning - Practical Python for Algorithmic Trading](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading)
+
+## III. Applications
+
