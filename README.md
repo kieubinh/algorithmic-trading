@@ -5,41 +5,41 @@ Researching about Algorithmic Trading
 - Ref: [Recommended Books by neurotrader youtuber](https://www.youtube.com/watch?v=ftFptCxm5ZU&t=14s)
 - Categories: Introduction (beginner), Risk Management, Indicators, Strategies, Trading System Development, Essential Skills for Trading, Niche, Quant Trading.
   
-### Introduction
+### 1. Introduction
 - [ ] Systematic Trading by Robert Carver (beginner)
 - [ ] Trading Systems and Methods by Perry J.Kaufman (intermediate)
 - [ ] Advances in Financial Machine Learning by Marcos Lopez De Prado (advanced)
 
-### Risk Management
+### 2. Risk Management
 - [ ] The Leverage Space Trading Model by Ralph Vince (intermediate)
 - [ ] The Mathematics of Money Management by Ralph Vince (intermediate)
 
-### Indicators
+### 3. Indicators
 - [ ] Rocket Science for Trader by John F. Ehlers (intermediate)
 - [ ] Cybernetic Analysis for Stocks and Futures by John F. Ehlers (intermediate)
 - [ ] Cycle Analytics for Traders by John F. Ehlers (beginner)
 - [ ] Statistically Sound Indicators for Financial Market Prediction, algorithms in C++ (advanced)
 - [ ] The Universal Tactics of Successful Trend Trading (beginner)
 
-### Strategies
+### 4. Strategies
 - [ ] Stocks on the Move by Andreas Clen (beginner)
 - [ ] Cybernetic Trading Strategies (intermediate)
 
-### Trading System Development
+### 5. Trading System Development
 - [ ] Testing and Tuning Market Trading Systems (intermediate)
 - [ ] Permutation and Randomization Tests for Trading System Development, algorithms in C++ (advanced)
 
-### Essential Skills for Trading
+### 6. Essential Skills for Trading
 - [ ] Numerical Recipes - The Art of Scientific Computing
 - [ ] Assessing and Improving Prediction and Classification
 - [ ] Data-Driven Science and Engineering
 
-### Niche/Miscellaneous Books
+### 7. Niche/Miscellaneous Books
 - [ ] Technical Analysis for Algorithmic Pattern Recognition
 - [ ] Detecting Regime Change in Computational Finance for Data Science, ML and Algorithmic Trading
 - [ ] Trading on Sentiment by Peterson
 
-### Quant Trading
+### 8. Quant Trading
 - [ ] Option Volatility and Pricing by Sheldon Natenberg
 - [ ] Dynamic Hedging
 - [ ] Frequently Asked Questions in Quantitative Finance (Second Edition) by Paul Wilmott
