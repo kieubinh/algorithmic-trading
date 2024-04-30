@@ -42,7 +42,7 @@ Researching about Algorithmic Trading
 ### 8. Quant Trading
 - [ ] Option Volatility and Pricing by Sheldon Natenberg
 - [ ] Dynamic Hedging
-- [ ] Frequently Asked Questions in Quantitative Finance (Second Edition) by Paul Wilmott
+- [ ] [Frequently Asked Questions in Quantitative Finance](notes/faqiqf.md) (Second Edition) by Paul Wilmott
 - [ ] Python for Data Analysis
 - [ ] Introduction to Linear Algebra
 - [ ] Advances in Active Portfolio Management
