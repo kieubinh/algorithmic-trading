@@ -1,0 +1,8 @@
+# FREQUENTLY ASKED QUESTIONS IN QUANTITATIVE FINANCE
+- Author:
+
+## The Quantitative Finance Timeline
+### Lognormal Random Walk by Brown 1827
+- The Brownian movement was discovered in 1827 by Robert Brown, a botanist. While he was studying microscopic life, he noticed little particles of plant pollens jiggling around in the liquid he was looking at in the microscope, and he was wise enough to realize that these were not living, but were just little pieces of dirt moving around in the water.
+- Brownian movement is like a dance that tiny particles do when they're in a liquid or gas. Imagine you're in a crowded room, and everyone is moving around randomly, bumping into each other. That's kind of what Brownian movement is like for particles, but it happens in liquids or gases. These particles are really small, like dust or pollen grains, and they're constantly getting pushed and pulled by the other particles around them. So, even though they can't be seen with the naked eye, they're always jittering and bouncing around in all directions. This movement was first observed by a scientist named Robert Brown when he looked at pollen grains under a microscope in water. He saw that they moved around in a jerky, random way, and that's how he discovered Brownian movement. Scientists later found out that this movement happens because the particles are being bombarded by the other particles in the liquid or gas. It's like they're constantly being pushed and shoved by an invisible crowd, causing them to move around randomly. So, Brownian movement is basically the random, jiggling motion of tiny particles when they're suspended in a liquid or gas, and it happens because they're constantly being bumped and jostled by the other particles around them.
+- 
